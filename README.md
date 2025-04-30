@@ -6,7 +6,6 @@ This is a simple command-line tool to fetch and display the recent public activi
 
 - Fetches the **latest 10 events** from a user's GitHub activity
 - Displays event type, repository, creation time, and commit messages (for push events)
-- Nicely formatted date and time
 - Handles missing data and errors gracefully
 
 ## Usage
